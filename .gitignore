@@ -1,2 +1,2 @@
 pubspec.lock
-.dart_tool/
+*.dart_tool/
